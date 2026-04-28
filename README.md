@@ -21,15 +21,15 @@ This repository is built for **YouTubers, Shorts creators, educators, app founde
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
 ## Related Cliprise GitHub resources
 
-- [Awesome AI Video Generator Prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts)
-- [Awesome Image-to-Video Prompts](https://github.com/cliprise/awesome-image-to-video-prompts)
-- [Best AI Video Generator Resources](https://github.com/cliprise/best-ai-video-generator-resources)
-- [Best AI Image Generator Resources](https://github.com/cliprise/best-ai-image-generator-resources)
-
----
-
+- [Awesome AI thumbnail prompts](https://github.com/cliprise/awesome-ai-thumbnail-prompts) - YouTube and social cover prompts with readable negative space.
+- [Awesome AI video generator prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts) - prompt systems for text-to-video and multi-step video workflows.
+- [Awesome image-to-video prompts](https://github.com/cliprise/awesome-image-to-video-prompts) - still-to-motion workflows, camera language, and source-frame discipline.
+- [Awesome AI TikTok video prompts](https://github.com/cliprise/awesome-ai-tiktok-video-prompts) - vertical short-form hooks and native-feel video patterns.
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+<!-- CLIPRISE_LINKING_END -->
 ## What this repository is
 
 This repository is a practical resource hub for users searching for:
